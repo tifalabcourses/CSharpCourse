@@ -1,0 +1,7 @@
+C:\Users\EGYPT\source\repos\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\EGYPT\source\repos\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\EGYPT\source\repos\TEST\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\EGYPT\source\repos\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\EGYPT\source\repos\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\EGYPT\source\repos\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\EGYPT\source\repos\TEST\TEST\obj\Debug\TEST.pdb
