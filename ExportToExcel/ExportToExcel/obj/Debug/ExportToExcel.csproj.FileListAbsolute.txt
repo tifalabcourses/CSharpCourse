@@ -1,0 +1,17 @@
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ExportToExcel.exe
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ExportToExcel.pdb
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.csprojAssemblyReference.cache
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.Form1.resources
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.Properties.Resources.resources
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.csproj.GenerateResource.cache
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.exe
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.pdb
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ClosedXML.dll
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\DocumentFormat.OpenXml.dll
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ExcelNumberFormat.dll
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\FastMember.dll
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ClosedXML.pdb
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ClosedXML.xml
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\DocumentFormat.OpenXml.xml
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\bin\Debug\ExcelNumberFormat.xml
+F:\a_Youtube\c#\ExportToExcel\ExportToExcel\obj\Debug\ExportToExcel.csproj.CopyComplete
