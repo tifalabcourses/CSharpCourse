@@ -1,0 +1,8 @@
+F:\a_Youtube\c#\ImageBtn\ImageBtn\bin\Debug\ImageBtn.exe
+F:\a_Youtube\c#\ImageBtn\ImageBtn\bin\Debug\ImageBtn.pdb
+F:\a_Youtube\c#\ImageBtn\ImageBtn\obj\Debug\ImageBtn.csprojAssemblyReference.cache
+F:\a_Youtube\c#\ImageBtn\ImageBtn\obj\Debug\ImageBtn.Form1.resources
+F:\a_Youtube\c#\ImageBtn\ImageBtn\obj\Debug\ImageBtn.Properties.Resources.resources
+F:\a_Youtube\c#\ImageBtn\ImageBtn\obj\Debug\ImageBtn.csproj.GenerateResource.cache
+F:\a_Youtube\c#\ImageBtn\ImageBtn\obj\Debug\ImageBtn.exe
+F:\a_Youtube\c#\ImageBtn\ImageBtn\obj\Debug\ImageBtn.pdb
