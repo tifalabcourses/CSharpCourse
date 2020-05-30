@@ -1,0 +1,13 @@
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.csprojAssemblyReference.cache
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.Form1.resources
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.Properties.Resources.resources
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.csproj.GenerateResource.cache
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\bin\Debug\SavePdfToDatabase.exe
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\bin\Debug\SavePdfToDatabase.pdb
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.exe
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.pdb
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EGYPT\source\repos\SavePdfToDatabase\SavePdfToDatabase\obj\Debug\SavePdfToDatabase.csproj.ResolveComReference.cache
