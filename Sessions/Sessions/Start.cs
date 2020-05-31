@@ -30,5 +30,10 @@ namespace Sessions
         {
 
         }
+
+        private void Start_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

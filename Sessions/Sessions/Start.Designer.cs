@@ -95,6 +95,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Start";
             this.Text = "Start";
+            this.Load += new System.EventHandler(this.Start_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

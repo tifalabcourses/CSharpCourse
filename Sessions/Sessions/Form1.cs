@@ -18,12 +18,7 @@ namespace Sessions
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //String user = "mostafa";
-            //String role = "AD";
-
-            //Sessions.Model.MySessions.username = user;
-            //Sessions.Model.MySessions.role = role;
-
+          
 
             btnAdmin.Enabled = false;
             btnGuest.Enabled = false;
